@@ -1,4 +1,4 @@
-# nanochat cgoltsev edits
+# nanochat cgoltsev edits 1 2 3
 
 ![nanochat logo](dev/nanochat.png)
 
